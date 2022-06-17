@@ -1,3 +1,6 @@
+#Authored by Jacob Patshkowski and Wilson Ibyishaka
+#EENG 490 Eastern Washington University 
+
 import websockets
 import asyncio
 import json
