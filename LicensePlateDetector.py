@@ -1,5 +1,8 @@
 #Authored by Jacob Patshkowski and Wilson Ibyishaka
 #EENG 490 Eastern Washington University 
+
+#ran in google colabs
+
 !pip install pycocotools --quiet
 !pip install opencv-python
 !pip install albumentations==0.4.6
